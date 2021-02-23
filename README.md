@@ -185,21 +185,21 @@ current state:
 1   4   5  
 7   8   6  
 
-current state:
-1   2   3
-7   4   5
-0   8   6
-
-current state:
-1   2   0
-4   5   3
-7   8   6
-
-BFS:
-current state:
-1   2   3
-4   5   6
-7   8   0
+current state:  
+1   2   3  
+7   4   5  
+0   8   6  
+  
+current state:  
+1   2   0  
+4   5   3  
+7   8   6  
+  
+BFS:  
+current state:  
+1   2   3  
+4   5   6  
+7   8   0  
 
 solved  
 Execution time:  0.057343400000000155  
@@ -207,115 +207,115 @@ Number of states visited:  67
 
 ### Depth-First Search 
 
-current state:
-0   1   3
-4   2   5
-7   8   6
+current state:  
+0   1   3  
+4   2   5  
+7   8   6  
 
-current state:
-0   1   3
-4   2   5
-7   8   6
+current state:  
+0   1   3  
+4   2   5  
+7   8   6  
 
-current state:
-1   0   3
-4   2   5
-7   8   6
+current state:  
+1   0   3  
+4   2   5  
+7   8   6  
+  
+current state:  
+4   1   3  
+0   2   5  
+7   8   6  
 
-current state:
-4   1   3
-0   2   5
-7   8   6
+current state:  
+1   0   3  
+4   2   5  
+7   8   6  
+  
+current state:  
+4   1   3  
+0   2   5  
+7   8   6  
 
-current state:
-1   0   3
-4   2   5
-7   8   6
+current state:  
+1   3   0  
+4   2   5  
+7   8   6  
 
-current state:
-4   1   3
-0   2   5
-7   8   6
+current state:  
+1   2   3  
+4   0   5  
+7   8   6  
 
-current state:
-1   3   0
-4   2   5
-7   8   6
+current state:  
+4   1   3  
+2   0   5  
+7   8   6  
 
-current state:
-1   2   3
-4   0   5
-7   8   6
+current state:  
+4   1   3  
+7   2   5  
+0   8   6  
 
-current state:
-4   1   3
-2   0   5
-7   8   6
+current state:  
+1   3   0  
+4   2   5  
+7   8   6  
 
-current state:
-4   1   3
-7   2   5
-0   8   6
+current state:  
+1   2   3  
+4   0   5  
+7   8   6  
+  
+current state:  
+4   1   3  
+2   0   5  
+7   8   6  
 
-current state:
-1   3   0
-4   2   5
-7   8   6
+current state:  
+4   1   3  
+7   2   5  
+0   8   6  
 
-current state:
-1   2   3
-4   0   5
-7   8   6
+current state:  
+1   3   5  
+4   2   0  
+7   8   6  
 
-current state:
-4   1   3
-2   0   5
-7   8   6
+current state:  
+1   2   3  
+0   4   5  
+7   8   6  
 
-current state:
-4   1   3
-7   2   5
-0   8   6
+current state:  
+1   2   3  
+4   5   0  
+7   8   6  
 
-current state:
-1   3   5
-4   2   0
-7   8   6
+current state:   
+1   2   3  
+4   8   5  
+7   0   6  
 
-current state:
-1   2   3
-0   4   5
-7   8   6
+current state:  
+4   1   3  
+2   5   0  
+7   8   6  
 
-current state:
-1   2   3
-4   5   0
-7   8   6
+current state:  
+4   0   3  
+2   1   5  
+7   8   6  
 
-current state: 
-1   2   3
-4   8   5
-7   0   6
+current state:  
+4   1   3  
+2   8   5  
+7   0   6  
 
-current state:
-4   1   3
-2   5   0
-7   8   6
-
-current state:
-4   0   3
-2   1   5
-7   8   6
-
-current state:
-4   1   3
-2   8   5
-7   0   6
-
-current state:
-4   1   3
-7   2   5
-8   0   6
+current state:  
+4   1   3  
+7   2   5  
+8   0   6  
 
 current state:
 1   3   5
