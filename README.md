@@ -199,9 +199,11 @@ current state:
 4   5   6
 7   8   0
 
-solved
-Execution time:  0.057343400000000155
-Number of states visited:  67
+Output  
+
+solved  
+Execution time:  0.057343400000000155  
+Number of states visited:  67  
 
 ### Depth-First Search 
 
@@ -386,8 +388,10 @@ current state:
 4   5   6
 7   8   0
 
-solved
-Execution time:  0.05716480000000024
-Number of states visited:  67
+Output  
+
+solved  
+Execution time:  0.05716480000000024  
+Number of states visited:  67  
 
 
