@@ -16,6 +16,8 @@ For both breath-first search and depth-first search, the original tile placement
 ## Results for 8 Piece Puzzle
 start=[[0,1,3], [4,2,5], [7,8,6]]
 
+We tested the code with an 8-piece puzzle found both algorithms were successful. The execution time for breadth-first search was 0.0573 with 67 states visited. The deepth-first search took signtly less time at 0.0572 while also visiting 67 states.
+
 ### Breadth-First Search
 
 current state:
